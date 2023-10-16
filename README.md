@@ -61,6 +61,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RaJ-3542/RaJ-3542/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RaJ-3542/RaJ-3542/snake.svg" alt="Snake animation" />
 
 ###

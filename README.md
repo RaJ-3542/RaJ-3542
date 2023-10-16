@@ -61,6 +61,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RaJ-3542/RaJ-3542/snake.svg" alt="Snake animation" />
+
+## 🏆 GitHub Trophies
+<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RaJ-3542" alt="RajAryan" /></a> </p>
 
 ###
